@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blacklion0221
 - 👀 I’m interested in IT, Computers, CyberSecurity, Development, ...
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 📫 Reach me on Discord: blacklion0221 | Malte#7593
 
 <!---
